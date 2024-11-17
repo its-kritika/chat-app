@@ -149,10 +149,14 @@ body{
     .form-bar{
         width: 96%;
     }
-    .form-bar button, .form2 button{
+    .form-bar button{
         width: 75px;
     }
     .client-message{
         margin: 7% 4%;
+    }
+    .enter-form {
+        padding: 5%;
+        margin-top: 30%;
     }
 }
